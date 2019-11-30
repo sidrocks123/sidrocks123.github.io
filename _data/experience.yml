@@ -4,10 +4,20 @@
   job_title: Software Engineer
   dates: July 2018 - Present
   quote: >
-   Working in the Credit Cards Engineering Division
+   Working in the Credit Cards Engineering Division for one of the largest banks by revenue in the world
   description: | # this will include new lines to allow paragraphs
-    The backend of HSBC's credit card division primarily operates out of Hyderabad. I have worked in both testing (July 2018 - June 2019) and development (July 2019 till present) for the same.
+    The backend of HSBC's credit card division primarily operates out of Hyderabad. I have worked in both testing (July 2018 - June 2019) and development (July 2019 till present) teams for the same.
     
-    I have worked in a variety of regions for the division - including MENA, Singapore, Hong Kong, Vietnam and India, and as a result, have gotten a feel for working on large codebases, and starting from the business requirements stage and ending at testing.
+    I have worked in a variety of regions for the division - including MENA, Singapore, Hong Kong, Vietnam and India, and as a result, have gotten a feel for working on large codebases, and working on the entire development process - starting from the business requirements stage and ending at testing.
     
-    I have also participated in internal hackathons conducted by HSBC at a pan-India level - I have lead my team to semi-finals for two years in a row.
+    I have also participated in internal hackathons conducted by HSBC at a pan-India level - and I have lead my team to the semi-finals for two years in a row.
+company: Indiamart Intermesh
+  link: https://corporate.indiamart.com/shubhaarambh/
+  job_title: Software Engineering Intern
+  dates: January 2018 - June 2018
+  quote: >
+   Worked in the Mobile Site Division for one of the largest B2B sites in India
+  description: | # this will include new lines to allow paragraphs
+    Indiamart is an up-and-coming B2B startup based out of Noida, India. I worked in the Noida Tech Site in the Mobile division for performance improvement.
+    
+    I built a tool for Indiamart in my duration at the company that captures a variety of web performance paramaters (primarily load times and render times), and used this dynamic data to populate a dashboard, which in turn is used for monitoring and debugging performance-related issues on the entirety of the mobile site.
