@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: sidrocks123/sidrocks123.github.io
 # favicon: images/favicon.ico
 
 # Personal info
 name: Siddhartha Khanooja
 title: Software Engineer
 email: siddhartha.khanooja@gmail.com
-website: https://sidrocks123.github.com
+website: https://sidrocks123.github.io
 
 # Social links
 twitter_username: sidkhanooja
@@ -52,7 +52,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sidrocks123/sidrocks123.github.io
 
 sass:
   sass_dir: _sass
