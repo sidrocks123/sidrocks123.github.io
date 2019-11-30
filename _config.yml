@@ -49,10 +49,10 @@ more_content: | # this will include new lines to allow paragraphs
    - Debating
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
-remote_theme: sidrocks123/sidrocks123.github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
