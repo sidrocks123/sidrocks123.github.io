@@ -1,14 +1,25 @@
 - layout: left
+  company: Goldman Sachs
+  link: https://www.gs.com/
+  job_title: Senior Analyst
+  dates: March 2021 - Present
+  quote: >
+   Working in the Decisioning Platform Team for Marcus@Goldman Sachs
+  description: | # this will include new lines to allow paragraphs
+    I work as a analyst in GS with exposure to both the technology and business side, with a pivotal role to play in GS's expansion in the consumer banking sector.
+
+
+- layout: left
   company: HSBC Technology India
   link: https://www.hsbc.com/hti
   job_title: Software Engineer
-  dates: July 2018 - Present
+  dates: July 2018 - February 2021
   quote: >
    Working in the Credit Cards Engineering Division for one of the largest banks by revenue in the world
   description: | # this will include new lines to allow paragraphs
-    The backend of HSBC's credit card division primarily operates out of Hyderabad. I have worked in both testing (July 2018 - June 2019) and development (July 2019 till present) teams for the same.
+    The backend of HSBC's credit card division primarily operates out of Hyderabad. I have worked in testing (July 2018 - June 2019), development (July 2019 - Sept 2020) and production support (Oct 2020 - Feb 2021) for the same.
     
-    I have worked in a variety of regions for the division - including MENA, Singapore, Hong Kong, Vietnam and India, and as a result, have gotten a feel for working on large codebases, and working on the entire development process - starting from the business requirements stage and ending at testing.
+    I have worked in a variety of regions for the division - including MENA, Singapore, Hong Kong, Vietnam, Mexico and India, and as a result, have gotten a feel for working on large codebases, and working on the entire development process - starting from the business requirements stage and ending at post-deployment support.
     
     I have also participated in internal hackathons conducted by HSBC at a pan-India level - and I have lead my team to the semi-finals for two years in a row.
 
