@@ -75,7 +75,6 @@ content:
           I have also participated in internal hackathons conducted by HSBC at a pan-India level - and I have lead my team to the semi-finals for two years in a row.
       - title: Indiamart Intermesh
         layout: left
-        link: https://corporate.indiamart.com/shubhaarambh/
         sub_title: Software Engineering Intern
         caption: January 2018 - June 2018
         quote: >
@@ -90,14 +89,14 @@ content:
     layout: list
     content:
       - layout: left
-        title: Thapar Institute of Engineering and Technology, Patiala (8.10/10.0)
+        title: Thapar Institute of Engineering and Technology, Patiala
         sub_title: Bachelor of Engineering (B.E.) in Computer Science
         caption: 2014 - 2018
         description: |
+          Graduated with a cumulative GPA of 8.10/10.0
+        
           During my time at Thapar, I learnt most of my key skills that have helped me throughout my career such as teamwork and working under tight deadlines. I had the chance to work on many academic projects which taught me a variety of tools and technologies, such as C++, Python, LAMP stack, and APIs. 
     
-          I thoroughly enjoyed my time at university, and learnt a lot about balancing the professional and personal facets of life.
-          
           I spent a lot of my free time as a reporter, for the *Model United Nations*, and the unofficial institute newspaper, called *The Scribbler*.
         
   - title: Interests
