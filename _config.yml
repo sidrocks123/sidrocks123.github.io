@@ -2,54 +2,119 @@
 repository: sidrocks123/sidrocks123.github.io
 # favicon: images/favicon.ico
 
+# Content configuration version
+version: 2
+
 # Personal info
 name: Siddhartha Khanooja
-title: Software Engineer
+title: Senior Analyst
 email: siddhartha.khanooja@gmail.com
 website: https://sidrocks123.github.io
 
 # Social links
-twitter_username: sidkhanooja
 github_username:  sidrocks123
-# dribbble_username: jekyll
 facebook_username: SidKhanooja
-# flickr_username: jekyll
 instagram_username: sidkhanooja
 linkedin_username: siddharthakhanooja
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Siddhartha and I'm a Software Engineer working at HSBC, Hyderabad. I am currently working in the Cards Engineering Division, and have worn both development and testing hats. 
+  Hi, my name's Siddhartha and I'm a Senior Analyst working at GS, Bengaluru. I am currently working in the Marcus Team, and have worn development, testing and support hats. 
   
-  Having gained an ample amount of experience with CS from both my Bachelors degree and my work in industry, I am now looking for a switch from my current job, preferably within Hyderabad, Bangalore or Gurgaon (India). I can be contacted using the social buttons above. 
+  I've gained an ample amount of experience with CS from both my Bachelors degree and my work in industry; and I can always be contacted using the social buttons above. 
 
   I am most skilled in: <mark>Python</mark>, <mark>JavaScript</mark>, <mark>COBOL</mark>, and <mark>Selenium</mark>.
 
-# Projects Section
-# projects_title: Projects
+content:
 
-# Experience Section
-# experience_title: Experience
+  - title: Projects
+    layout: list
+    content:
+      - title: Dilton
+        sub_title: Math Word Problem Solver
+        caption: co-lead, implemented Simple Interest model, and built and hosted working model on DigitalOcean.
+        additional_links:
+          - title: Dilton Github Link
+            icon: fab fa-github
+            url: https://github.com/sidrocks123/operation-prediction
+        layout: left
+        description: |
+          I started this project because me and my teammates loved Math, which is not a very popular subject because most students develop the placebo of hating Math without studying it in detail, and we wanted to inculcate that interest in others.
+    
+          The project can solve two categories of Arithmetic Word problems - Simple Interest, and questions involving two quantities and one operation.
+    
+          The project was also demonstrated to representatives of Trinity College, Dublin - and we received praise from them as well.
 
-# Education Section
-# educaton_title: Education
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests of software engineering, some of my other interests and hobbies are:
-   - Running and cycling
-   - Singing
-   - Writing
-   - Debating
+  - title: Experience
+    layout: list
+    content:
+      - title: Goldman Sachs
+        layout: left
+        link: https://www.gs.com/
+        sub_title: Senior Analyst
+        caption: March 2021 - present
+        quote: >
+          Working in the Decisioning Platform Team for Marcus @ Goldman Sachs
+        description: |
+          I work as a analyst in GS with exposure to both the technology and business side, with a pivotal role to play in GS's expansion in the consumer banking sector.
+      - title: HSBC Technology India
+        layout: left
+        link: https://www.hsbc.com/hti
+        sub_title: Software Engineer
+        caption: July 2018 - February 2021
+        quote: >
+          Worked in the Credit Cards Engineering Division for one of the largest banks by revenue in the world.
+        description: |
+          The backend of HSBC's credit card division primarily operates out of Hyderabad. I have worked in testing (July 2018 - June 2019), development (July 2019 - Sept 2020) and production support (Oct 2020 - Feb 2021) for the same.
+          
+          I have worked in a variety of regions for the division - including MENA, Singapore, Hong Kong, Vietnam, Mexico and India, and as a result, have gotten a feel for working on large codebases, and working on the entire development process - starting from the business requirements stage and ending at post-deployment support.
+          
+          I have also participated in internal hackathons conducted by HSBC at a pan-India level - and I have lead my team to the semi-finals for two years in a row.
+      - title: Indiamart Intermesh
+        layout: left
+        link: https://corporate.indiamart.com/shubhaarambh/
+        sub_title: Software Engineering Intern
+        caption: January 2018 - June 2018
+        quote: >
+          Worked in the Mobile Site Division for one of the largest B2B sites in India
+        description: |
+          Indiamart is an up-and-coming B2B startup based out of Noida, India. I worked in the Noida Tech Site in the Mobile division for performance improvement.
+    
+          I built a tool for Indiamart in my duration at the company that captures a variety of web performance paramaters (primarily load times and render times), and used this dynamic data to populate a dashboard, which in turn is now use internally for monitoring and debugging performance-related issues on the entirety of the mobile site.
 
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Thapar Institute of Engineering and Technology
+        sub_title: 8.10/10.0
+        caption: 2014 - 2018
+        description: B.E., Computer Science
+        
+  - title: Interests
+    layout: list
+    content:
+      - layout: left
+        title: Outdoor
+        description: |
+          * Travel
+          * Running
+          * Karaoke
+      - layout: left
+        title: Indoor
+        description: |
+          * Gaming
+          * Movies/series
+          * Reading/writing
+          * Listening to music
+          
 # Footer
 footer_show_references: false
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -60,5 +125,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-theme: jekyll-theme-minimal
+ - jekyll-spaceship
