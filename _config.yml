@@ -90,10 +90,15 @@ content:
     layout: list
     content:
       - layout: left
-        title: Thapar Institute of Engineering and Technology
-        sub_title: 8.10/10.0
+        title: Thapar Institute of Engineering and Technology, Patiala (8.10/10.0)
+        sub_title: Bachelor of Engineering (B.E.) in Computer Science
         caption: 2014 - 2018
-        description: B.E., Computer Science
+        description: |
+          During my time at Thapar, I learnt most of my key skills that have helped me throughout my career such as teamwork and working under tight deadlines. I had the chance to work on many academic projects which taught me a variety of tools and technologies, such as C++, Python, LAMP stack, and APIs. 
+    
+          I thoroughly enjoyed my time at university, and learnt a lot about balancing the professional and personal facets of life.
+          
+          I spent a lot of my free time as a reporter, for the *Model United Nations*, and the unofficial institute newspaper, called *The Scribbler*.
         
   - title: Interests
     layout: list
